@@ -1,0 +1,14 @@
+C:\Users\Betty\Desktop\Personal Projects\FrequencyAnalysisCryptanalysis\FrequencyAnalysis\obj\Debug\net7.0\FrequencyAnalysis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Betty\Desktop\Personal Projects\FrequencyAnalysisCryptanalysis\FrequencyAnalysis\obj\Debug\net7.0\FrequencyAnalysis.AssemblyInfoInputs.cache
+C:\Users\Betty\Desktop\Personal Projects\FrequencyAnalysisCryptanalysis\FrequencyAnalysis\obj\Debug\net7.0\FrequencyAnalysis.AssemblyInfo.cs
+C:\Users\Betty\Desktop\Personal Projects\FrequencyAnalysisCryptanalysis\FrequencyAnalysis\obj\Debug\net7.0\FrequencyAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\Betty\Desktop\Personal Projects\FrequencyAnalysisCryptanalysis\FrequencyAnalysis\bin\Debug\net7.0\FrequencyAnalysis.exe
+C:\Users\Betty\Desktop\Personal Projects\FrequencyAnalysisCryptanalysis\FrequencyAnalysis\bin\Debug\net7.0\FrequencyAnalysis.deps.json
+C:\Users\Betty\Desktop\Personal Projects\FrequencyAnalysisCryptanalysis\FrequencyAnalysis\bin\Debug\net7.0\FrequencyAnalysis.runtimeconfig.json
+C:\Users\Betty\Desktop\Personal Projects\FrequencyAnalysisCryptanalysis\FrequencyAnalysis\bin\Debug\net7.0\FrequencyAnalysis.dll
+C:\Users\Betty\Desktop\Personal Projects\FrequencyAnalysisCryptanalysis\FrequencyAnalysis\bin\Debug\net7.0\FrequencyAnalysis.pdb
+C:\Users\Betty\Desktop\Personal Projects\FrequencyAnalysisCryptanalysis\FrequencyAnalysis\obj\Debug\net7.0\FrequencyAnalysis.dll
+C:\Users\Betty\Desktop\Personal Projects\FrequencyAnalysisCryptanalysis\FrequencyAnalysis\obj\Debug\net7.0\refint\FrequencyAnalysis.dll
+C:\Users\Betty\Desktop\Personal Projects\FrequencyAnalysisCryptanalysis\FrequencyAnalysis\obj\Debug\net7.0\FrequencyAnalysis.pdb
+C:\Users\Betty\Desktop\Personal Projects\FrequencyAnalysisCryptanalysis\FrequencyAnalysis\obj\Debug\net7.0\FrequencyAnalysis.genruntimeconfig.cache
+C:\Users\Betty\Desktop\Personal Projects\FrequencyAnalysisCryptanalysis\FrequencyAnalysis\obj\Debug\net7.0\ref\FrequencyAnalysis.dll
